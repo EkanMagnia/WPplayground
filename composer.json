@@ -1,0 +1,22 @@
+{
+  "name": "georgeolah/go-plugin",
+  "description": "Simple WordPress Test Plugin",
+  "type": "project",
+  "require-dev": {
+  },
+  "authors": [
+    {
+      "name": "George Olah",
+      "email": "george.olah@selgora.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GoPlugin\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "haydenpierce/class-finder": "^0.4.2"
+  }
+}
