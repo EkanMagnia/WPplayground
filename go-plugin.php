@@ -71,7 +71,7 @@ if ( ! function_exists( 'iniGOPlugin' ) ) {
 					$query->the_post();
 
 					// do something with the post data
-					
+
 				}
 			}
 		}

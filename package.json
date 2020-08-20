@@ -1,0 +1,29 @@
+{
+  "name": "go-plugin",
+  "version": "1.0.0",
+  "description": "wp playground ",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkanMagnia/WPplayground.git"
+  },
+  "keywords": [
+    "wp"
+  ],
+  "author": "George Olah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EkanMagnia/WPplayground/issues"
+  },
+  "homepage": "https://github.com/EkanMagnia/WPplayground#readme"
+}
